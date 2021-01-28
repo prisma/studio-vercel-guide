@@ -1,0 +1,23 @@
+{
+  "name": "studio-vercel-guide",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma/studio-vercel-guide.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "./scripts/build.sh"
+  },
+  "devDependencies": {
+    "@prisma/cli": "2.15.0",
+    "vercel": "21.1.0"
+  },
+  "dependencies": {
+    "@prisma/client": "2.15.0",
+    "@prisma/studio": "0.345.0",
+    "@prisma/studio-vercel": "0.345.0"
+  }
+}
