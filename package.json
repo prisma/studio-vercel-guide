@@ -7,7 +7,6 @@
     "url": "git+https://github.com/prisma/studio-vercel-guide.git"
   },
   "author": "",
-  "license": "MIT",
   "scripts": {
     "build": "./scripts/build.sh"
   },
