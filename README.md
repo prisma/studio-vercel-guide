@@ -1,4 +1,12 @@
-# Studio x Vercel
+# This Project is no longer maintained
+
+We have released a hosted version of Studio which you can use instead: https://cloud.prisma.io/
+
+If you are still interested in hosting Studio yourself you can consult the remaining of this readme but we will not be maintaining this guide any more.
+
+---
+
+# (Old guide) Studio x Vercel
 
 This guide shows you how to deploy Studio alongside your app on Vercel.
 
